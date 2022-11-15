@@ -5,9 +5,9 @@ A medium-dark theme with seal blue and salmon red. Colors are taken from the
 
 **Only tested for C, Markdown and JSON!**
 
-![C](https://raw.githubusercontent.com/calestialgem/vscode.pink.moon/main/resources/c.png "C Language")
+![C](https://raw.githubusercontent.com/calestialgem/vscode.pink.moon/main/screenshots/c.png "C Language")
 
-![JSON & Markdown](https://raw.githubusercontent.com/calestialgem/vscode.pink.moon/main/resources/json-markdown.png "JSON & Markdown")
+![JSON & Markdown](https://raw.githubusercontent.com/calestialgem/vscode.pink.moon/main/screenshots/json-markdown.png "JSON & Markdown")
 
 _Font: Lilex_
 
