@@ -293,6 +293,14 @@
         "foreground": "#d08785",
         "fontStyle": ""
       }
+    },
+    {
+      "name": "Tags",
+      "scope": "entity.name.tag",
+      "settings": {
+        "foreground": "#d08785",
+        "fontStyle": ""
+      }
     }
   ]
 }
