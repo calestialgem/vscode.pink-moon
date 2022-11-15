@@ -1,0 +1,21 @@
+{
+  "name": "pink-moon-theme",
+  "displayName": "Pink Moon Theme",
+  "description": "A medium-dark theme with tale blue and salmon red.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pink Moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pink-moon-color-theme.json"
+      }
+    ]
+  }
+}
