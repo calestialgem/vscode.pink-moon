@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.1]
+
+- Fixed changelog versions.
+
 ## [0.1.0]
 
 - Colored suffixes and prefixes in literals in literal color instead of keyword.
