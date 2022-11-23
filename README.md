@@ -3,7 +3,7 @@
 A medium-dark theme with seal blue and salmon red. Colors are taken from the
 [Pink Moon Theme](https://github.com/sts10/vim-pink-moon) for VIM/NeoVIM.
 
-**Only tested for C, Markdown, JSON and YAML!**
+**Only tested for C, C++, Markdown, JSON, YAML, Java, and Scala!**
 
 ![C](https://raw.githubusercontent.com/calestialgem/vscode.pink-moon/main/screenshots/c.png "C Language")
 
