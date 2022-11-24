@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.2]
+
+- C/C++ and Java `storage` clash.
+
 ## [0.1.1]
 
 - Fixed changelog versions.
