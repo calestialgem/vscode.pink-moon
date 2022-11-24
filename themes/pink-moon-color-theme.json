@@ -123,7 +123,7 @@
     },
     {
       "name": "Keywords",
-      "scope": ["keyword", "storage.modifier"],
+      "scope": ["keyword", "storage", "variable.language.this"],
       "settings": {
         "foreground": "#6f98b3",
         "fontStyle": "bold"
@@ -154,7 +154,12 @@
     },
     {
       "name": "String Literal Placeholders",
-      "scope": ["constant.other", "constant.character.escape"],
+      "scope": [
+        "constant.other",
+        "constant.character.escape",
+        "punctuation.definition.template-expression",
+        "keyword.interpolation"
+      ],
       "settings": {
         "foreground": "#ffd17f",
         "fontStyle": ""
@@ -166,7 +171,8 @@
         "entity.name.type",
         "entity.name.class",
         "entity.other.inherited-class",
-        "storage.type"
+        "storage.type.generic",
+        "storage.type.java"
       ],
       "settings": {
         "foreground": "#fcdbd9",
